@@ -79,7 +79,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         university = "Long Island University"
         dates = "2011 - 2014"
         [[params.education.list]]
-        degree = "BS in Information Managemnet & Technology"
+        degree = "BS in Information Management & Technology"
         university = "Long Island University"
         dates = "2006 - 2011"
 
