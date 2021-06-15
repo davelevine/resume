@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://www.iamdavelevine.com/"
+baseURL = "https://cv.davelevine.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -30,11 +30,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "dave@iamdavelevine.com"
+        text = "dave@davelevine.io"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "www.iamdavelevine.com"
+        text = "cv.davelevine.io"
 
     [params.skills]
         enable = true
@@ -204,8 +204,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "davelevine87"
         [[params.social.list]]
         icon = "fa fa-envelope"
-        url = "mailto:dave@iamdavelevine.com"
-        title = "dave@iamdavelevine.com"
+        url = "mailto:dave@davelevine.io"
+        title = "dave@davelevine.io"
         [[params.social.list]]
         icon = "fab fa-github"
         url = "https://github.com/davelevine"
