@@ -4,7 +4,7 @@ baseURL = "https://cv.davelevine.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+# googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
     author = "Dave Levine"
