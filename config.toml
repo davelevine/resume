@@ -86,14 +86,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
          name = "AWS Certified Solutions Architect - Associate"
          body = "Credential ID: 3CX8XLLCN2F11W3T"
          date = "Issued: Jul 2020 | Expires: Jul 2023" 
-         [[params.awards.list]]
-         name = "CompTIA Security+"
-         body = "Credential ID: 8N88HELMPHE4Q6Q2"
-         date = "Issued: Nov 2016 | Expired: Nov 2019"
-         [[params.awards.list]]
-         name = "Microsoft Certified IT Professional [MCITP] (Retired)"
-         body = "Credential ID: E404-1374"
-         date = "Issued: Oct 2013 | Expired: Oct 2016"
+    #     [[params.awards.list]]
+    #     name = "CompTIA Security+"
+    #     body = "Credential ID: 8N88HELMPHE4Q6Q2"
+    #     date = "Issued: Nov 2016 | Expired: Nov 2019"
+    #     [[params.awards.list]]
+    #     name = "Microsoft Certified IT Professional [MCITP] (Retired)"
+    #     body = "Credential ID: E404-1374"
+    #     date = "Issued: Oct 2013 | Expired: Oct 2016"
 
     # [params.languages]
     #    enable = true
