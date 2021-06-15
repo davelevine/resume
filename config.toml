@@ -17,7 +17,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Dave Levine"
         tagline = "IT Analyst with 7 years’ experience and a master’s degree in Information Systems."
-        avatar = "avatar.jpg"
+        avatar = "avatar.png"
 
     [params.contact]
         enable = true
