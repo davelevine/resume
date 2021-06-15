@@ -11,7 +11,7 @@ theme = "hugo-devresume-theme"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
     primaryColor = "#282a36"
-    textPrimaryColor = "#44475a"
+    textPrimaryColor = "#282a36"
 
     [params.profile]
         enable = true
@@ -26,7 +26,7 @@ theme = "hugo-devresume-theme"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "516-455-6778"
+        text = "516.455.6778"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
