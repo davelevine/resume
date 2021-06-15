@@ -33,7 +33,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "dave@davelevine.io"
         [[params.contact.list]]
         icon = "fa fa-file-pdf"
-        url = "https://cv.davelevine.io/static/davelevine-resume.pdf"
+        url = "assets/davelevine-resume.pdf"
         text = "CV"
         # [[params.contact.list]]
         # icon = "fas fa-globe"
