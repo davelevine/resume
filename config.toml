@@ -197,7 +197,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Self-Improvement, Fatherhood, Weightlifting, Reading, Traveling"
+        details = "Self-Improvement | Fatherhood | Weightlifting | Reading | Traveling"
 
     [params.social]
         enable = true
