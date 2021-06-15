@@ -32,9 +32,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "mailto:#"
         text = "dave@davelevine.io"
         [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "#"
-        text = "cv.davelevine.io"
+        icon = "fa fa-file-pdf"
+        url = "https://cv.davelevine.io/static/davelevine-resume.pdf"
+        text = "CV"
+        # [[params.contact.list]]
+        # icon = "fas fa-globe"
+        # url = "#"
+        # text = "cv.davelevine.io"
 
     [params.skills]
         enable = true
