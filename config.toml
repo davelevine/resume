@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://cv.davelevine.io/"
+baseURL = "https://www.iamdavelevine.com/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
