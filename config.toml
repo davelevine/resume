@@ -1,0 +1,215 @@
+# Page settings
+
+baseURL = "http://example.org/"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+[params]
+    author = "Dave Levine"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+    primaryColor = "#282a36"
+    textPrimaryColor = "#44475a"
+
+    [params.profile]
+        enable = true
+        name = "Dave Levine"
+        tagline = "IT Analyst"
+        avatar = "avatar.jpg"
+
+    [params.contact]
+        enable = true
+        location = "New York"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "516.455.6778"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "dave@iamdavelevine.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "www.iamdavelevine.com"
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Linux / Mac / Windows"
+        [[params.skills.list.items]]
+        details = "Amazon EC2"
+        [[params.skills.list.items]]
+        details = "Amazon S3"
+        [[params.skills.list.items]]
+        details = "Docker"
+        [[params.skills.list.items]]
+        details = "Citrix XenServer"
+        [[params.skills.list.items]]
+        details = "Software Development Life Cycle (SDLC)"
+        [[params.skills.list.items]]
+        details = "Agile Development"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Knowledge Management"
+        [[params.skills.list.items]]
+        details = "Stakeholder Management"
+        [[params.skills.list.items]]
+        details = "Business Process Improvement"
+        [[params.skills.list.items]]
+        details = "Requirements Gathering & Analysis"
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "MS in Information Systems"
+        university = "Long Island University"
+        dates = "2011 - 2014"
+        [[params.education.list]]
+        degree = "BS in Information Managemnet & Technology"
+        university = "Long Island University"
+        dates = "2006 - 2011"
+
+     [params.awards]
+         enable = true
+
+         [[params.awards.list]]
+         name = "AWS Certified Solutions Architect - Associate"
+         body = "Credential ID: 3CX8XLLCN2F11W3T"
+         date = "Issued: Jul 2020 | Expires: Jul 2023" 
+         [[params.awards.list]]
+         name = "CompTIA Security+"
+         body = "Credential ID: 8N88HELMPHE4Q6Q2"
+         date = "Issued: Nov 2016 | Expired: Nov 2019"
+         [[params.awards.list]]
+         name = "Microsoft Certified IT Professional [MCITP] (Retired)"
+         body = "Credential ID: E404-1374"
+         date = "Issued: Oct 2013 | Expired: Oct 2016"
+
+    # [params.languages]
+    #    enable = true
+
+    #    [[params.languages.list]]
+    #    name = "English"
+    #    level = "Native"
+    #    [[params.languages.list]]
+    #    name = "Spanish"
+    #    level = "Professional"
+
+    # [params.interests]
+    #    enable = true
+
+    #    [[params.interests.list]]
+    #    name = "Self Improvement"
+    #    [[params.interests.list]]
+    #    name = "Fatherhood"
+    #    [[params.interests.list]]
+    #    name = "Weightlifting"
+    #    [[params.interests.list]]
+    #    name = "Reading"
+    #    [[params.interests.list]]
+    #    name = "Traveling"
+
+    [params.summary]
+        enable = true
+        text = "Experienced IT analyst with comprehensive knowledge of developing, documenting and delivering solutions for attaining business goals. Capable of leading cross-functional teams to advance continuous improvement of web-based solutions for clinical faculty and staff."
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "IT Business Analyst"
+        dates = "Dec 2017 - Present"
+        company = "Weill Cornell Medicine"
+        [[params.experience.list.items]]
+        details = "Lead analyst and subject matter expert (SME) for the Conflicts of Interest module."
+        [[params.experience.list.items]]
+        details = "Manage workflow of administrative approvals, training and documentations required for the advancement of over 5,000 research studies."
+        [[params.experience.list.items]]
+        details = "Liaise with stakeholders to collect business requirements, create functional specifications, distribute data & interface with cross-functional teams."
+        [[params.experience.list.items]]
+        details = "Conduct quality control testing used to improve workflows and enhance business processes."
+
+        [[params.experience.list]]
+        title = "Application Support Analyst II"
+        dates = "Oct 2015 - Dec 2017"
+        company = "Weill Cornell Medicine"
+        [[params.experience.list.items]]
+        details = "Provided Tier 2 end-user support for research administration application module."
+        [[params.experience.list.items]]
+        details = "Provisioned user access rights to research administration application modules."
+        [[params.experience.list.items]]
+        details = "Collaborated with lead analysts in the implementation,testing & training for new and enhanced functionality."
+        [[params.experience.list.items]]
+        details = "Created and developed knowledge base to store documentation, procedures & solutions related to research administration application modules."
+
+        [[params.experience.list]]
+        title = "Systems Support Analyst"
+        dates = "Nov 2013 - Oct 2015"
+        company = "ClickIT Inc."
+        [[params.experience.list.items]]
+        details = "Provided Tier 1 end-user support for MS Windows based system support & proprietary surveillance software."
+        [[params.experience.list.items]]
+        details = "Conducted video analytics testing to improve motion detection, heat maps & people counting."
+        [[params.experience.list.items]]
+        details = "Created and maintained company knowledge base."
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Knowledge Base"
+        meta = "Open Source"
+        tagline = "My goal of creating and maintaining my knowledge base is to capture and preserve as much information as I can."
+
+        [[params.projects.list]]
+        title = "Homelab"
+        meta = "Open Source"
+        tagline = "A true labor of love. Focusing on everything from system design and architecture to monitoring and security."
+
+        [[params.projects.list]]
+        title = "Self Improvement"
+        meta = ""
+        tagline = "Personal growth and well-being. Capturing and documenting. Sharing and discussing with others."
+
+    [params.information]
+        enable = true
+
+    #    [[params.information.list]]
+    #    title = "Papers"
+    #    [[params.information.list.items]]
+    #    details = "2018 · Lorem Ipsum"
+    #    [[params.information.list.items]]
+    #    details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Self-Improvement, Fatherhood, Weightlifting, Reading, Traveling"
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "https://linkedin.com/in/davelevine87"
+        title = "davelevine87"
+        [[params.social.list]]
+        icon = "fa fa-envelope"
+        url = "mailto:dave@iamdavelevine.com"
+        title = "dave@iamdavelevine.com"
+        [[params.social.list]]
+        icon = "fab fa-github"
+        url = "https://github.com/davelevine"
+        title = "davelevine"
+
+[params.footer]
+    copyright = "Dave Levine"
