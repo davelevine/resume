@@ -34,7 +34,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fa fa-file-pdf"
         url = "assets/davelevine-resume.pdf"
-        text = "CV"
+        text = "CV / Resume"
         # [[params.contact.list]]
         # icon = "fas fa-globe"
         # url = "#"
@@ -210,6 +210,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fa fa-envelope"
         url = "mailto:dave@davelevine.io"
         title = "dave@davelevine.io"
+        [[params.social.list]]
+        icon = "fa fa-file-pdf"
+        url = "https://cv.davelevine.io/assets/davelevine-resume.pdf"
+        title = "CV / Resume"
         [[params.social.list]]
         icon = "fab fa-github"
         url = "https://github.com/davelevine"
