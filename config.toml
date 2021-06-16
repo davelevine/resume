@@ -44,7 +44,7 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.skills.list]]
-        title = ""
+        title = "Technical"
         [[params.skills.list.items]]
         details = "Linux / Mac / Windows"
         [[params.skills.list.items]]
@@ -59,6 +59,8 @@ theme = "hugo-devresume-theme"
         details = "Shell Scripting (Bash)"
         [[params.skills.list.items]]
         details = "CI/CD (Ansible, Git)"
+        [[params.skills.list]]
+        title = "Professional"
         [[params.skills.list.items]]
         details = "Software Development Life Cycle (SDLC)"
         [[params.skills.list.items]]
@@ -77,6 +79,10 @@ theme = "hugo-devresume-theme"
     [params.education]
         enable = true
 
+        [[params.education.list]]
+        degree = "Systems Design Certificate"
+        university = "Cornell University"
+        dates = "2021"
         [[params.education.list]]
         degree = "MS in Information Systems"
         university = "Long Island University"
