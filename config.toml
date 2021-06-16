@@ -25,11 +25,11 @@ theme = "hugo-devresume-theme"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
+        url = "tel:516-455-6778"
         text = "516.455.6778"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:dave@davelevine.io"
         text = "dave@davelevine.io"
         [[params.contact.list]]
         icon = "fa fa-file-pdf"
@@ -207,6 +207,14 @@ theme = "hugo-devresume-theme"
         [[params.information.list]]
         title = "Interests"
         details = "Self-Improvement | Fatherhood | Weightlifting | Reading | Traveling"
+    #    [[params.information.list.items]]
+    #    details = "Fatherhood"
+    #    [[params.information.list.items]]
+    #    details = "Weightlifting"
+    #    [[params.information.list.items]]
+    #    details = "Reading"
+    #    [[params.information.list.items]]
+    #    details = "Traveling"
 
     [params.social]
         enable = true
