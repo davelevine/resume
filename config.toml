@@ -16,7 +16,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Dave Levine"
-        tagline = "IT Analyst with 7 years’ experience and a master’s degree in Information Systems."
+        tagline = "IT Analyst with 8 years experience and a master’s degree in Information Systems."
         avatar = "avatar.png"
 
     [params.contact]
@@ -44,28 +44,31 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = ""
         [[params.skills.list.items]]
         details = "Linux / Mac / Windows"
         [[params.skills.list.items]]
-        details = "Amazon EC2"
+        details = "Virtualization"
         [[params.skills.list.items]]
-        details = "Amazon S3"
+        details = "Cloud Services (AWS)"
         [[params.skills.list.items]]
-        details = "Docker"
+        details = "Service Containerization"
         [[params.skills.list.items]]
-        details = "Citrix XenServer"
+        details = "YAML, JSON, XML"
+        [[params.skills.list.items]]
+        details = "Shell Scripting (Bash)"
+        [[params.skills.list.items]]
+        details = "CI/CD (Ansible, Git)"
         [[params.skills.list.items]]
         details = "Software Development Life Cycle (SDLC)"
         [[params.skills.list.items]]
         details = "Agile Development"
-
-        [[params.skills.list]]
-        title = "Professional"
         [[params.skills.list.items]]
         details = "Knowledge Management"
         [[params.skills.list.items]]
         details = "Stakeholder Management"
+        [[params.skills.list.items]]
+        details = "ITIL"
         [[params.skills.list.items]]
         details = "Business Process Improvement"
         [[params.skills.list.items]]
@@ -148,7 +151,7 @@ theme = "hugo-devresume-theme"
         dates = "Oct 2015 - Dec 2017"
         company = "Weill Cornell Medicine"
         [[params.experience.list.items]]
-        details = "Provided Tier 2 end-user support for research administration application module."
+        details = "Provided Tier 2 end-user support for research administration application modules."
         [[params.experience.list.items]]
         details = "Provisioned user access rights to research administration application modules."
         [[params.experience.list.items]]
