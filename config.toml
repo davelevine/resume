@@ -224,9 +224,9 @@ theme = "hugo-devresume-theme"
         url = "https://linkedin.com/in/davelevine87"
         title = "davelevine87"
         [[params.social.list]]
-        icon = "fa fa-envelope"
-        url = "mailto:dave@davelevine.io"
-        title = "dave@davelevine.io"
+        icon = "fab fa-keybase"
+        url = "https://keybase.io/davelevine"
+        title = "davelevine"
     #    [[params.social.list]]
     #    icon = "fa fa-file-pdf"
     #    url = "https://cv.davelevine.io/assets/davelevine-resume.pdf"
