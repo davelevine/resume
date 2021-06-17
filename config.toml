@@ -80,7 +80,7 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.education.list]]
-        degree = "Systems Design Certificate"
+        degree = "Certificate in Systems Design"
         university = "Cornell University"
         dates = "2021"
         [[params.education.list]]
