@@ -54,7 +54,7 @@ theme = "hugo-devresume-theme"
         [[params.skills.list.items]]
         details = "Service Containerization"
         [[params.skills.list.items]]
-        details = "YAML, JSON, XML"
+        details = "YAML / JSON / XML"
         [[params.skills.list.items]]
         details = "Shell Scripting (Bash)"
         [[params.skills.list.items]]
