@@ -2,7 +2,7 @@
 
 baseURL = "https://cv.davelevine.io/"
 languageCode = "en"
-title = ""
+title = "Dave's Resume"
 theme = "hugo-devresume-theme"
 # googleAnalytics = "UA-XXXXXXX-Y"
 
