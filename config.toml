@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://www.davidlevine.com/"
+baseURL = "https://dave.levine.org/"
 languageCode = "en"
 title = "Dave's Resume"
 theme = "hugo-devresume-theme"
@@ -29,8 +29,8 @@ theme = "hugo-devresume-theme"
         text = "516.455.6778"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:dave@davelevine.io"
-        text = "dave@davelevine.io"
+        url = "mailto:dave@levine.org"
+        text = "dave@levine.org"
         [[params.contact.list]]
         icon = "fa fa-file-pdf"
         url = "assets/davelevine-resume.pdf"
