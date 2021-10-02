@@ -146,7 +146,7 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "Manage and liaise with stakeholders to collect business requirements, create functional/technical specifications, distribute data & interface with cross-functional teams including Business Intelligence, Application Development, Quality Assurance, Training & Security to ensure application advancement."
         [[params.experience.list.items]]
-        details = "Serve as a subject matter expert delivering training for key stakeholders and implement user acceptance testing (UAT), use case scenarios, and test scripts."
+        details = "Serve as a subject matter expert delivering training for key stakeholders."
         [[params.experience.list.items]]
         details = "Develop project plans, workflows, training, documentation and manage administrative approvals required to advance 5,000+ Weill Cornell research studies."
         [[params.experience.list.items]]
