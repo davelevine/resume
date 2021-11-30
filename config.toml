@@ -46,35 +46,49 @@ theme = "hugo-devresume-theme"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "Linux / Mac / Windows"
-        [[params.skills.list.items]]
-        details = "Virtualization"
+        details = "Linux / macOS / Microsoft Windows"
         [[params.skills.list.items]]
         details = "Cloud Services (AWS)"
         [[params.skills.list.items]]
-        details = "Service Containerization"
+        details = "Virtualization"
         [[params.skills.list.items]]
-        details = "YAML / JSON / XML"
+        details = "Troubleshooting"
         [[params.skills.list.items]]
-        details = "Shell Scripting (Bash)"
+        details = "ServiceNow"
         [[params.skills.list.items]]
-        details = "CI/CD (Ansible, Git)"
+        details = "Visio"
+        [[params.skills.list.items]]
+        details = "HTML"
+        [[params.skills.list.items]]
+        details = "Jira"
+        [[params.skills.list.items]]
+        details = "Excel"
+        [[params.skills.list.items]]
+        details = "Information Security"
+        [[params.skills.list.items]]
+        details = "Networking"
+        [[params.skills.list.items]]
+        details = "Data Loss Prevention"
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Software Development Life Cycle (SDLC)"
-        [[params.skills.list.items]]
-        details = "Agile Development"
-        [[params.skills.list.items]]
         details = "Knowledge Management"
+        [[params.skills.list.items]]
+        details = "Technical Writing"
+        [[params.skills.list.items]]
+        details = "Requirements Gathering & Analysis"
+        [[params.skills.list.items]]
+        details = "Change Management"
         [[params.skills.list.items]]
         details = "Stakeholder Management"
         [[params.skills.list.items]]
-        details = "ITIL"
-        [[params.skills.list.items]]
         details = "Business Process Improvement"
         [[params.skills.list.items]]
-        details = "Requirements Gathering & Analysis"
+        details = "Software Development Life Cycle (SDLC)"
+        [[params.skills.list.items]]
+        details = "ITIL"
+        [[params.skills.list.items]]
+        details = "Agile Development"
 
     [params.education]
         enable = true
@@ -134,7 +148,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "Experienced IT analyst with comprehensive knowledge of developing, documenting and delivering solutions for attaining business goals. Capable of leading cross-functional teams to advance continuous improvement of web-based solutions for clinical faculty and staff."
+        text = "Experienced IT analyst with a proven keen grasp of interpersonal relationship management and technical skills utilized for attaining business goals. Experience includes the successful demonstration of leading cross-functional teams to perform and document insightful assessment of current business processes, technical analyses, quality validation and continuous improvement of web-based solutions."
 
     [params.experience]
         enable = true
@@ -144,13 +158,13 @@ theme = "hugo-devresume-theme"
         dates = "Dec 2017 - Present"
         company = "Weill Cornell Medicine"
         [[params.experience.list.items]]
-        details = "Manage and liaise with stakeholders to collect business requirements, create functional/technical specifications, distribute data & interface with cross-functional teams including Business Intelligence, Application Development, Quality Assurance, Training & Security to ensure application advancement."
+        details = "Manage and liaise with stakeholders to gather business requirements, create functional/technical specifications, analyze, and distribute data, and interface with cross-functional teams including Business Intelligence, Application Development, Quality Assurance, Training and Security to ensure business process improvement."
         [[params.experience.list.items]]
-        details = "Serve as a subject matter expert delivering training for key stakeholders."
+        details = "Use key performance metrics and data to provide insights and strategic business recommendations for key stakeholders."
         [[params.experience.list.items]]
-        details = "Develop project plans, workflows, training, documentation and manage administrative approvals required to advance 5,000+ Weill Cornell research studies."
+        details = "Develop project plans, workflows, training, documentation, and administrative approvals required to advance 5,000+ Weill Cornell research studies."
         [[params.experience.list.items]]
-        details = "Design business process workflow diagrams to identify opportunities for business operational improvement based on data analysis, metrics & KPIs."
+        details = "Design business process workflow diagrams to identify opportunities for business operational improvement."
         [[params.experience.list.items]]
         details = "Maintain business reporting specifications to automate and improve the optimization of Business Intelligence reports."
         [[params.experience.list.items]]
@@ -161,22 +175,22 @@ theme = "hugo-devresume-theme"
         dates = "Oct 2015 - Dec 2017"
         company = "Weill Cornell Medicine"
         [[params.experience.list.items]]
-        details = "Provided Tier 2 end-user support for research administration application modules."
+        details = "Provided Tier 2 end-user support for research application modules."
         [[params.experience.list.items]]
         details = "Provisioned user access rights to research administration application modules."
         [[params.experience.list.items]]
         details = "Collaborated with lead analysts in the implementation,testing & training for new and enhanced functionality."
         [[params.experience.list.items]]
-        details = "Created and developed knowledge base to store documentation, procedures & solutions related to research administration application modules."
+        details = "Created and developed knowledge base in ServiceNow to store documentation, procedures & solutions."
 
         [[params.experience.list]]
         title = "Systems Support Analyst"
         dates = "Nov 2013 - Oct 2015"
         company = "ClickIT Inc."
         [[params.experience.list.items]]
-        details = "Provided Tier 1 end-user support for MS Windows based system support & proprietary surveillance software."
+        details = "Provided Tier 1 end-user support for Microsoft Windows based systems & proprietary surveillance software."
         [[params.experience.list.items]]
-        details = "Conducted video analytics testing to improve motion detection, heat maps & people counting."
+        details = "Conducted testing and analysis to enhance video analytics software."
         [[params.experience.list.items]]
         details = "Created and maintained company knowledge base."
 
@@ -186,17 +200,17 @@ theme = "hugo-devresume-theme"
         [[params.projects.list]]
         title = "Knowledge Base"
         meta = "Open Source"
-        tagline = "My goal of creating and maintaining my knowledge base is to capture and preserve as much information as I can."
+        tagline = "A knowledge base I started in 2016 to document my homelab. It has since amassed to over 300 articles, guides and documents that serve as a source of truth, second brain and a labor of love."
 
         [[params.projects.list]]
         title = "Homelab"
         meta = "Open Source"
-        tagline = "A true labor of love. Focusing on everything from system design and architecture to monitoring and security."
+        tagline = "A personal project focusing on everything from system design and architecture to monitoring and security."
 
         [[params.projects.list]]
         title = "Self Improvement"
         meta = ""
-        tagline = "Personal growth and well-being. Capturing and documenting. Sharing and discussing with others."
+        tagline = "A never ending journey of personal growth and well-being. Capturing and documenting. Sharing and discussing with others."
 
     [params.information]
         enable = true
