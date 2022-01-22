@@ -198,14 +198,16 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.projects.list]]
-        title = "Knowledge Base"
+        title = "All Things Worthwhile"
+        url = "https://kb.levine.org"
         meta = "Open Source"
-        tagline = "A knowledge base I started in 2016 to document my homelab. It has since amassed to over 300 articles, guides and documents that serve as a source of truth, second brain and a labor of love."
+        tagline = "A knowledge base I started in 2016 to document my homelab and other things worth remembering. It has since amassed to hundreds of articles, guides and documents that serve as a source of truth, second brain and a labor of love."
 
         [[params.projects.list]]
-        title = "Homelab"
+        title = "Atomic URL"
+        url = "https://dl.is"
         meta = "Open Source"
-        tagline = "A personal project focusing on everything from system design and architecture to monitoring and security."
+        tagline = "A URL shortener proof of concept built using Cloudflare Workers."
 
         [[params.projects.list]]
         title = "Self Improvement"
@@ -239,7 +241,7 @@ theme = "hugo-devresume-theme"
 
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "https://linkedin.com/in/davelevine87"
+        url = "https://linkedin.com/in/iamdavelevine"
         title = "davelevine87"
         [[params.social.list]]
         icon = "fab fa-keybase"
