@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://dsl.me"
+baseURL = "https://dsl.me/"
 languageCode = "en"
 title = "Dave's Resume"
 theme = "hugo-devresume-theme"
