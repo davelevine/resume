@@ -199,7 +199,7 @@ theme = "hugo-devresume-theme"
 
         [[params.projects.list]]
         title = "All Things Worthwhile"
-        url = "https://docs.levine.org"
+        url = "https://kb.levine.org"
         meta = "Open Source"
         tagline = "A knowledge base I started in 2016 to document my homelab and other things worth remembering. It has since amassed to hundreds of articles, guides and documents that serve as a source of truth, second brain and a labor of love."
 
